@@ -1,0 +1,13 @@
+body {
+	background-color:#FACD8A;
+}
+h1 {
+	color: #363636;
+}
+h2 {
+	font-styles: italic;
+	border-bottom: 3px solid #EF9C00;
+}
+ul {
+	list-style-type: square;
+}
