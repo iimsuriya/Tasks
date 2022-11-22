@@ -1,0 +1,26 @@
+html {
+    background-color: yellow;
+
+}
+body {
+    font-family: arial, helvertica, sans-serif;
+    font-size: 100%;
+    width: 600px;
+    padding: 1.5em;
+    border: 10px double blue;
+    margin: 1em auto;
+    background-color: white;
+}
+h1 {
+    font-size: 150%;
+    color: blue;
+    margin: 0;
+    padding: .1em;
+}
+p3 {
+    font-size: 100%;
+    color: blue;
+}
+p4 {
+    color: blue;
+}
